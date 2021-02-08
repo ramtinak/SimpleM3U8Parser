@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleM3U8Parser", "src\Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "sample\Example\Example.csproj", "{65337D46-E31F-4218-9EC3-6B97B8D804C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{4E1FEB61-236B-4D31-ABBC-36BE0E7D76D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{13054CE6-39E2-4470-84E0-89A31F8B74F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61949101-AB56-48FA-949A-E109AA935C7D} = {4E1FEB61-236B-4D31-ABBC-36BE0E7D76D7}
+		{65337D46-E31F-4218-9EC3-6B97B8D804C1} = {13054CE6-39E2-4470-84E0-89A31F8B74F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59DBA797-7844-4B93-ABCB-338FE03B16BD}
