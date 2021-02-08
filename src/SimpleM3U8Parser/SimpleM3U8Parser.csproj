@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/ramtinak/SimpleM3U8Parser</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ramtinak/SimpleM3U8Parser</RepositoryUrl>
     <PackageReleaseNotes></PackageReleaseNotes>
-    <PackageTags>C# m3u m3u8 parser</PackageTags>
+    <PackageTags>C# m3u m3u8 parser vb</PackageTags>
   </PropertyGroup>
 
 </Project>
