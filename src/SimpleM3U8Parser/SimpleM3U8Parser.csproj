@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net4;net45;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ramtin Jokar</Authors>
+    <Description>Simple m3u8 parser</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/ramtinak/SimpleM3U8Parser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ramtinak/SimpleM3U8Parser</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageTags>C# m3u m3u8 parser</PackageTags>
+  </PropertyGroup>
+
+</Project>
